@@ -1,0 +1,19 @@
+.container{
+    
+    background-color: white;
+    width:fit-content;
+    text-align:center;
+    position: relative;
+    top:35px;
+    left:45%;
+    padding:10px;
+    border-radius: 10px;
+    
+}
+button{
+    background-color:rgb(151, 246, 151);
+}
+
+body{
+    background-color: rgb(122, 122, 235);
+}
